@@ -235,4 +235,4 @@ This repository serves as the official landing page for Micro Flight. The softwa
 **Get the most recent version of Micro Flight today!**
 
 ---
-**Last updated:** 2026-09-24 14:49:01 UTC
+**Last updated:** 2026-09-24 18:57:34 UTC
